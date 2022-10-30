@@ -1,0 +1,49 @@
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel Racer.csproj.AssemblyReference.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel Racer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel Racer.csproj.GenerateResource.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel Racer.csproj.CoreCompileInputs.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel_Racer.Properties.Resources.resources
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel_Racer.Form1.resources
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\bin\Debug\Pixel Racer.exe.config
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\bin\Debug\Pixel Racer.exe
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\bin\Debug\Pixel Racer.pdb
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel Racer.exe
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Car Racing Game MOO ICT\obj\Debug\Pixel Racer.pdb
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.exe.config
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.exe
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.pdb
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.AssemblyReference.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.Form1.resources
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.Properties.Resources.resources
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.GenerateResource.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.CoreCompileInputs.cache
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.exe
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.pdb
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.StartForm.resources
+C:\Users\Sho\Downloads\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.gameoverForm.resources
+D:\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.exe.config
+D:\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.exe
+D:\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.pdb
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.AssemblyReference.cache
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.Form1.resources
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.gameoverForm.resources
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.Properties.Resources.resources
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.StartForm.resources
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.GenerateResource.cache
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.CoreCompileInputs.cache
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.exe
+D:\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.pdb
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.exe.config
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.exe
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\bin\Debug\Pixel Racer.pdb
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.AssemblyReference.cache
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.Form1.resources
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.gameoverForm.resources
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.Properties.Resources.resources
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel_Racer.StartForm.resources
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.GenerateResource.cache
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.csproj.CoreCompileInputs.cache
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.exe
+C:\Users\Sho\Source\Repos\amabee\PixelRacer\Pixel Racer\Pixel Racer\Pixel Racer\obj\Debug\Pixel Racer.pdb
